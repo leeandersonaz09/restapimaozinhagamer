@@ -1,0 +1,23 @@
+{
+  "name": "restapimaozinhagamer",
+  "version": "1.0.0",
+  "description": "rest api maozinha gamer app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leeandersonaz09/restapimaozinhagamer"
+  },
+  "keywords": [],
+  "author": "Lee Brasil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeandersonaz09/restapimaozinhagamer/issues"
+  },
+  "homepage": "https://github.com/leeandersonaz09/restapimaozinhagamer#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}
