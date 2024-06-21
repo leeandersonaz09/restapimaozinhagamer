@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/leeandersonaz09/restapimaozinhagamer#readme",
   "dependencies": {
-    "json-server": "0.17.4"
+    "json-server": "^0.17.4",
+    "jsonwebtoken": "^9.0.2"
   }
 }
