@@ -6,6 +6,7 @@ const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 
 server.use(middlewares);
+server.use(restrictMiddleware); // Use o middleware antes do roteador
 server.use(router);
 
 const port = process.env.PORT || 3000;
