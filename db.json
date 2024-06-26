@@ -17,6 +17,7 @@
       "img": "http://piratadosdescontos.com.br/wp-content/uploads/2022/07/VCMERECE.png",
       "href": "/(tabs)",
       "tittle": "Dedicação é ter Milhares de descontos em Cupons",
+      "buttonTittle": "Saiba mais",
       "text": "Explore nossa seleção exclusiva de produtos com descontos incríveis. Na Mãozinha Gamer, você encontra ofertas imperdíveis em eletrônicos, games, acessórios e muito mais. Aproveite e economize com nossos cupons especiais!"
     },
     {
@@ -25,6 +26,7 @@
       "img": "https://vivacard.news/wp-content/uploads/2024/01/cartao-de-credito-casas-bahia.jpg",
       "href": "/(tabs)",
       "tittle": "Cartão!",
+      "buttonTittle": "Peça agora seu cartão",
       "text": "Ofertas exclusivas, facilidade no pagamento por aproximação, desconto no cineminha e todas as vantagens de um cartão Visa. Peça já seu cartão, acesse: www.casasbahia.com.br"
     },
     {
@@ -33,6 +35,7 @@
       "img": "https://revistalivemarketing.com.br/wp-content/uploads/2023/09/Casas-Bahia-anuncia-a-promocao-Mes-do-Cliente-ate-30-de-setembro.jpg",
       "href": "/(tabs)",
       "tittle": "Festival de Inverno",
+      "buttonTittle": "Garanta já seu cupom",
       "text": " Aqueça-se com Descontos Incríveis! Explore nossa seleção exclusiva de produtos para o inverno. Aproveite descontos em aquecedores, cobertores, roupas quentinhas e muito mais. Na Mãozinha Gamer, o inverno é mais quente com ofertas imperdíveis!"
     }
   ]
