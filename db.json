@@ -31,9 +31,9 @@
       "playstationTag": "",
       "xboxTag": "",
       "pcTag": "",
-      "xbox": true,
-      "pc": false,
-      "ps": true
+      "xbox": false,
+      "pc": true,
+      "ps": false
     },
     {
       "id": 3,
@@ -55,7 +55,7 @@
       "playstationTag": "",
       "xboxTag": "",
       "pcTag": "",
-      "xbox": false,
+      "xbox": true,
       "pc": true,
       "ps": true
     },
@@ -67,9 +67,9 @@
       "playstationTag": "",
       "xboxTag": "",
       "pcTag": "",
-      "xbox": false,
-      "pc": true,
-      "ps": true
+      "xbox": true,
+      "pc": false,
+      "ps": false
     },
     {
       "id": 6,
@@ -79,9 +79,9 @@
       "playstationTag": "",
       "xboxTag": "",
       "pcTag": "",
-      "xbox": false,
+      "xbox": true,
       "pc": true,
-      "ps": true
+      "ps": false
     }
   ],
   "banner": [
