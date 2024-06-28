@@ -10,6 +10,80 @@
       "text": ""
     }
   ],
+  "members": [
+    {
+      "id": 1,
+      "name": "Lee Brasil",
+      "followers": "@LeeBrasil",
+      "image": "https://www.shareicon.net/data/512x512/2016/05/26/771188_man_512x512.png",
+      "playstationTag": "",
+      "xboxTag": "",
+      "pcTag": "",
+      "xbox": true,
+      "pc": true,
+      "ps": false
+    },
+    {
+      "id": 2,
+      "name": "LoneWolf",
+      "followers": "@SamLoneWolf7",
+      "image": "https://www.shareicon.net/data/512x512/2016/05/26/771188_man_512x512.png",
+      "playstationTag": "",
+      "xboxTag": "",
+      "pcTag": "",
+      "xbox": true,
+      "pc": false,
+      "ps": true
+    },
+    {
+      "id": 3,
+      "name": "DOC HOLLIDAY",
+      "followers": "@DOCHOLLIDAY3556",
+      "image": "https://www.shareicon.net/data/512x512/2016/05/26/771188_man_512x512.png",
+      "playstationTag": "",
+      "xboxTag": "",
+      "pcTag": "",
+      "xbox": true,
+      "pc": true,
+      "ps": true
+    },
+    {
+      "id": 4,
+      "name": "Carlos Nunes",
+      "followers": "@VILACHA_GAMERS",
+      "image": "https://www.shareicon.net/data/512x512/2016/05/26/771188_man_512x512.png",
+      "playstationTag": "",
+      "xboxTag": "",
+      "pcTag": "",
+      "xbox": false,
+      "pc": true,
+      "ps": true
+    },
+    {
+      "id": 5,
+      "name": "Thaynara Leandro",
+      "followers": "@thaynaraleandro4356",
+      "image": "https://www.shareicon.net/data/512x512/2016/05/26/771188_man_512x512.png",
+      "playstationTag": "",
+      "xboxTag": "",
+      "pcTag": "",
+      "xbox": false,
+      "pc": true,
+      "ps": true
+    },
+    {
+      "id": 6,
+      "name": "As quengas de vondel",
+      "followers": "@AldoLP",
+      "image": "https://www.shareicon.net/data/512x512/2016/05/26/771188_man_512x512.png",
+      "playstationTag": "",
+      "xboxTag": "",
+      "pcTag": "",
+      "xbox": false,
+      "pc": true,
+      "ps": true
+    }
+  ],
   "banner": [
     {
       "id": 1,
