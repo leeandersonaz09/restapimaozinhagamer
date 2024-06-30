@@ -10,6 +10,26 @@
       "text": ""
     }
   ],
+  "updateNotes": [
+    {
+      "id": 1,
+      "category": "Patrocinadores",
+      "img": "https://www.cidademarketing.com.br/marketing/wp-content/uploads/2022/10/casasbahia_blackfriday.jpg",
+      "href": "https://www.casasbahia.com.br/",
+      "tittle": "Dedicação é ter Milhares de descontos em Cupons",
+      "buttonTittle": "Saiba mais",
+      "text": "Explore nossa seleção exclusiva de produtos com descontos incríveis. Na Mãozinha Gamer, você encontra ofertas imperdíveis em eletrônicos, games, acessórios e muito mais. Aproveite e economize com nossos cupons especiais!"
+    },
+    {
+      "id": 2,
+      "category": "Patrocinadores",
+      "img": "https://vivacard.news/wp-content/uploads/2024/01/cartao-de-credito-casas-bahia.jpg",
+      "href": "https://www.casasbahia.com.br/",
+      "tittle": "Cartão!",
+      "buttonTittle": "Peça agora seu cartão",
+      "text": "Ofertas exclusivas, facilidade no pagamento por aproximação, desconto no cineminha e todas as vantagens de um cartão Visa. Peça já seu cartão, acesse: www.casasbahia.com.br"
+    }
+  ],
   "members": [
     {
       "id": 1,
