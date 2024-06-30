@@ -75,7 +75,7 @@
       "pcTag": "LeeBrasil9719",
       "xbox": true,
       "pc": true,
-      "ps": false
+      "ps": true
     },
     {
       "id": 2,
@@ -139,7 +139,7 @@
     },
     {
       "id": 7,
-      "name": "Aldo",
+      "name": "Dead",
       "followers": "@Cepher",
       "image": "https://drive.google.com/uc?export=download&id=173VplQrAjNQMKOlE6yt3UYBr5jLc_-1M",
       "playstationTag": "Dead",
