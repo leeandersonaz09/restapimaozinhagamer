@@ -8,32 +8,32 @@
   "widgets": [
     {
       "id": 1,
-      "img": "https://drive.google.com/uc?export=download&id=1ynpL_S9eqco03eenPn_0GDWJozOA9LFm",
-      "href": "/Maps",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKMI_faczlMpEMbigP6ETpks7Syz3pKCxkw&s",
+      "href": "#",
       "tittle": "Call of Duty",
       "uri": "https://wzhub.gg/pt/map",
       "openInApp": true
     },
     {
       "id": 2,
-      "img": "https://drive.google.com/uc?export=download&id=1OpKmEyfcav0whFKtJXFqBbU0g3o_jBSe",
-      "href": "/Loadouts",
+      "img": "https://blog.br.playstation.com/tachyon/sites/4/2024/06/b85212510cfd9ce57b8e759223d4838dca15162d.jpg?resize=1088%2C612&crop_strategy=smart",
+      "href": "#",
       "tittle": "The First Descendant",
       "uri": "https://wzhub.gg/pt/loadouts",
       "openInApp": true
     },
     {
       "id": 3,
-      "img": "https://drive.google.com/uc?export=download&id=1W5KkxklATX8dQUIidDeFs-7cM5I-zA0K",
-      "href": "vnd.youtube://www.youtube.com/@maozinhagamer_diih/streams",
+      "img": "https://cdn1.epicgames.com/offer/fn/Blade_2560x1440_2560x1440-95718a8046a942675a0bc4d27560e2bb",
+      "href": "#",
       "tittle": "Fortnite",
       "uri": "",
       "openInApp": false
     },
     {
       "id": 4,
-      "img": "https://drive.google.com/uc?export=download&id=1fCMkr4Pbt6CWSbz1HTLz2wvmV61MJJUI",
-      "href": "/Pix",
+      "img": "https://images.ctfassets.net/5lpapfxq15sk/5j7SyZ8JJ48vs8xskfFfx1/7991be232914afe600d04cf5f5d2f257/TL_KA_740x416_WEB__1_.jpg",
+      "href": "#",
       "tittle": "Throne and Liberty",
       "uri": "https://livepix.gg/diih145807",
       "openInApp": true
@@ -57,6 +57,15 @@
       "img": "https://drive.google.com/uc?export=download&id=1rXx20CJLn8HkkmoO5b-b_Ogo7tpvYttD",
       "href": "",
       "tittle": "Seu aplicativo maozinha está de cara nova....",
+      "buttonTittle": "",
+      "text": ""
+    },
+    {
+      "id": 2,
+      "category": "Patrocinadores",
+      "img": "https://drive.google.com/uc?export=download&id=1r8bFxbvQKj2UeJJriIJS_AhvOVMB64a3",
+      "href": "",
+      "tittle": "Aguarde mais novidades em breve...",
       "buttonTittle": "",
       "text": ""
     },
