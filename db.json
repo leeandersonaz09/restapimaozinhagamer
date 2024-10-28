@@ -54,27 +54,30 @@
     {
       "id": 1,
       "category": "Updates",
-      "img": "https://drive.google.com/uc?export=download&id=1rXx20CJLn8HkkmoO5b-b_Ogo7tpvYttD",
-      "href": "",
-      "tittle": "Seu aplicativo maozinha está de cara nova....",
+      "img": "https://static-cdn.jtvnw.net/jtv_user_pictures/16857d22-266e-44c1-93bd-facaa05d3f32-profile_banner-480.jpeg",
+      "href": "https://www.twitch.tv/renanfranulovic",
+      "uri": "https://www.twitch.tv/renanfranulovic",
+      "tittle": "Renanfranulovic",
       "buttonTittle": "",
       "text": ""
     },
     {
       "id": 2,
       "category": "Patrocinadores",
-      "img": "https://drive.google.com/uc?export=download&id=1r8bFxbvQKj2UeJJriIJS_AhvOVMB64a3",
-      "href": "",
-      "tittle": "Aguarde mais novidades em breve...",
+      "img": "https://i.ytimg.com/vi/oTPZLKD09lw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBrH98MrqkqBxpQ8s1BGfVQRzD9Pw",
+      "href": "https://www.youtube.com/channel/UCqB3_WL9vGS751N6UudXHuw",
+      "uri": "https://www.youtube.com/channel/UCqB3_WL9vGS751N6UudXHuw",
+      "tittle": "Maozinhagamer",
       "buttonTittle": "",
       "text": ""
     },
     {
       "id": 2,
       "category": "Patrocinadores",
-      "img": "https://drive.google.com/uc?export=download&id=1r8bFxbvQKj2UeJJriIJS_AhvOVMB64a3",
-      "href": "",
-      "tittle": "Aguarde mais novidades em breve...",
+      "img": "https://i.ytimg.com/vi/oTPZLKD09lw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBrH98MrqkqBxpQ8s1BGfVQRzD9Pw",
+      "href": "https://www.youtube.com/channel/UCqB3_WL9vGS751N6UudXHuw",
+      "uri": "https://www.youtube.com/channel/UCqB3_WL9vGS751N6UudXHuw",
+      "tittle": "Maozinhagamer",
       "buttonTittle": "",
       "text": ""
     }
